@@ -69,16 +69,4 @@ https://www.figma.com/proto/HSRwkKW8LwMjU7ba5u85KJ/Untitled?node-id=0-1&p=f&t=Jr
 
 ---
 
-## 📸 Screenshots
 
-### 🔐 Login Screen
-![Login](login.png)
-
-### 💇 Service Selection
-![Service](service.png)
-
-### ⏰ Booking Screen
-![Booking](booking.png)
-
-### ✅ Confirmation Screen
-![Confirmation](confirmation.png)
