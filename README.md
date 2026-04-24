@@ -41,8 +41,3 @@ Login → Select Service → Choose Time → Confirm Booking
 ## Tools Used
 - Figma
 
-## Figma Link
-(Paste your Figma link here)
-
-## Screenshots
-(Add your images here)
